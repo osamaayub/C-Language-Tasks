@@ -1,14 +1,7 @@
-#include<iostream>
-using namespace std;
-template<class T>
+#pragma once
 struct Node
 {
-  	T data;
-  	Node<T>*next;
-  		Node()
-  		{
-  			data=0;
-  			this->next=NULL;
-  			
-	    }
+	int value;
+	Node*next;
 };
+

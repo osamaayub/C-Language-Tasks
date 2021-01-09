@@ -1,0 +1,2 @@
+Implemented Graph using Adjancency Lists. in which i made a struct node which have to attributes value and node type next pointer and AdjancencyList struct that has head only.Which we will use to implement in graph class.
+AddEdge will add vertices to the graph.And print function will print the vertices of the graph on screen.

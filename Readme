@@ -1,0 +1,3 @@
+Binary Search Tree
+if the root value is greater than entered value we will insert in at the right subtree
+if the root value is less than entered value we will insert in at the left subtree

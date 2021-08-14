@@ -1,1 +1,0 @@
-There is a subroutine in which we clear the screen .Then we use a subroutine to print the string. and Subroutine called Delay which cause movement and this will cause delay in the screen the string will move till end vertically and then from the start
